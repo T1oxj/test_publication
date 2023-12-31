@@ -1,0 +1,11 @@
+#divInput {
+    padding-top: 300px;
+    text-align: center;
+}
+
+#result {
+    border: 5px solid;
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+}
